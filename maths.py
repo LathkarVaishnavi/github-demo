@@ -1,6 +1,8 @@
+#add implimentation
 def add(x,y):
 	pass
 
+#subtract implimentation
 def subtract(x,y):
 	pass 
 
