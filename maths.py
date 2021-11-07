@@ -6,9 +6,13 @@ def add(x,y):
 def subtract(x,y):
 	pass 
 
+
+#multiply implimentation
 def multiply(x,y):
 	pass
 
+
+#divide implimentation
 def divide(x,y):
 	pass
 
