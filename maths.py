@@ -1,10 +1,10 @@
 #add implimentation
 def add(x,y):
-	pass
+	return x+y
 
 #subtract implimentation
 def subtract(x,y):
-	pass 
+	return x-y 
 
 
 #multiply implimentation
