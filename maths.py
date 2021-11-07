@@ -9,10 +9,10 @@ def subtract(x,y):
 
 #multiply implimentation
 def multiply(x,y):
-	pass
+	return x*y
 
 
 #divide implimentation
 def divide(x,y):
-	pass
+	return x/y
 
